@@ -65,7 +65,7 @@ Backend
 Frontend
 	•	React.js
 
-  DarkSightAI
+DarkSightAI
 │
 ├── server.py            # Flask AI streaming server
 ├── darksight_alert.py   # Motion detection & alert logic
